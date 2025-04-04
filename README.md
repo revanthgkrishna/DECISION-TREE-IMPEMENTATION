@@ -19,4 +19,3 @@ Steps :
 5. Visualize the Decision Tree.
 6. Evaluate the model's accuracy and performance using metrics like confusion matrix and classification report.
 
-
