@@ -1,4 +1,4 @@
-TASK 1: BUILD AND VISUALIZE A DECISION TREE MODEL
+#DECISION-TREE-MODEL
 
 COMPANY: CODTECH IT SOLUTIONS  
 NAME: REVANTH  
@@ -19,3 +19,5 @@ Steps :
 5. Visualize the Decision Tree.
 6. Evaluate the model's accuracy and performance using metrics like confusion matrix and classification report.
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/77accfc6-7082-4032-9114-6c91f1654db5)
