@@ -18,6 +18,3 @@ Steps :
 4. Train a Decision Tree model using Scikit-learn.
 5. Visualize the Decision Tree.
 6. Evaluate the model's accuracy and performance using metrics like confusion matrix and classification report.
-
-#OUTPUT(Visualization):
-![Image](https://github.com/user-attachments/assets/77accfc6-7082-4032-9114-6c91f1654db5)
